@@ -148,3 +148,3096 @@ MA time (ms): 234
 Saved plot to result/convergence_p100_i500_s12345.png
 
 All experiments completed. Results saved to result/ directory.
+================================================================
+Experiment Run Started: Sun Nov 23 21:20:04 CST 2025
+================================================================
+
+----------------------------------------------------------------
+Experiment: Random Experiment #1
+Parameters: Pop=79, Iter=665, Seed=5514
+----------------------------------------------------------------
+Parameters: pop_size=79, iterations=665, seed=5514, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+GA crossover solutions: 26600
+GA mutation solutions: 2695
+GA total solutions: 29295
+GA time (ms): 54
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+MA crossover solutions: 26600
+MA mutation solutions: 2642
+MA total solutions: 29242
+MA time (ms): 288
+
+Saved plot to result/convergence_p79_i665_s5514.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #2
+Parameters: Pop=47, Iter=674, Seed=3038
+----------------------------------------------------------------
+Parameters: pop_size=47, iterations=674, seed=3038, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+GA crossover solutions: 16176
+GA mutation solutions: 1618
+GA total solutions: 17794
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+MA crossover solutions: 16176
+MA mutation solutions: 1640
+MA total solutions: 17816
+MA time (ms): 155
+
+Saved plot to result/convergence_p47_i674_s3038.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #3
+Parameters: Pop=128, Iter=623, Seed=20670
+----------------------------------------------------------------
+Parameters: pop_size=128, iterations=623, seed=20670, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (e)–(f)–(g)–(l)–(h)–(c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)
+GA crossover solutions: 39872
+GA mutation solutions: 3983
+GA total solutions: 43855
+GA time (ms): 80
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)
+MA crossover solutions: 39872
+MA mutation solutions: 4002
+MA total solutions: 43874
+MA time (ms): 400
+
+Saved plot to result/convergence_p128_i623_s20670.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #4
+Parameters: Pop=111, Iter=445, Seed=19540
+----------------------------------------------------------------
+Parameters: pop_size=111, iterations=445, seed=19540, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)
+GA crossover solutions: 24920
+GA mutation solutions: 2425
+GA total solutions: 27345
+GA time (ms): 48
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+MA crossover solutions: 24920
+MA mutation solutions: 2367
+MA total solutions: 27287
+MA time (ms): 229
+
+Saved plot to result/convergence_p111_i445_s19540.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #5
+Parameters: Pop=134, Iter=821, Seed=18013
+----------------------------------------------------------------
+Parameters: pop_size=134, iterations=821, seed=18013, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1583
+GA best tour: (k)–(c)–(j)–(a)–(d)–(g)–(h)–(l)–(f)–(e)–(i)–(b)–(k)
+GA crossover solutions: 55828
+GA mutation solutions: 5654
+GA total solutions: 61482
+GA time (ms): 96
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+MA crossover solutions: 55828
+MA mutation solutions: 5781
+MA total solutions: 61609
+MA time (ms): 509
+
+Saved plot to result/convergence_p134_i821_s18013.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #6
+Parameters: Pop=24, Iter=418, Seed=10632
+----------------------------------------------------------------
+Parameters: pop_size=24, iterations=418, seed=10632, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+GA crossover solutions: 5016
+GA mutation solutions: 505
+GA total solutions: 5521
+GA time (ms): 8
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+MA crossover solutions: 5016
+MA mutation solutions: 506
+MA total solutions: 5522
+MA time (ms): 50
+
+Saved plot to result/convergence_p24_i418_s10632.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #7
+Parameters: Pop=46, Iter=875, Seed=9152
+----------------------------------------------------------------
+Parameters: pop_size=46, iterations=875, seed=9152, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+GA crossover solutions: 21000
+GA mutation solutions: 2026
+GA total solutions: 23026
+GA time (ms): 35
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (l)–(h)–(c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)
+MA crossover solutions: 21000
+MA mutation solutions: 2095
+MA total solutions: 23095
+MA time (ms): 188
+
+Saved plot to result/convergence_p46_i875_s9152.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #8
+Parameters: Pop=37, Iter=455, Seed=30474
+----------------------------------------------------------------
+Parameters: pop_size=37, iterations=455, seed=30474, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1632
+GA best tour: (a)–(j)–(c)–(h)–(l)–(d)–(i)–(e)–(f)–(g)–(k)–(b)–(a)
+GA crossover solutions: 8190
+GA mutation solutions: 777
+GA total solutions: 8967
+GA time (ms): 14
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(g)–(h)–(l)–(f)–(e)
+MA crossover solutions: 8190
+MA mutation solutions: 863
+MA total solutions: 9053
+MA time (ms): 75
+
+Saved plot to result/convergence_p37_i455_s30474.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #9
+Parameters: Pop=69, Iter=499, Seed=16128
+----------------------------------------------------------------
+Parameters: pop_size=69, iterations=499, seed=16128, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(a)–(j)–(b)–(k)
+GA crossover solutions: 16966
+GA mutation solutions: 1737
+GA total solutions: 18703
+GA time (ms): 28
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1485
+MA best tour: (b)–(a)–(j)–(c)–(k)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(b)
+MA crossover solutions: 16966
+MA mutation solutions: 1734
+MA total solutions: 18700
+MA time (ms): 154
+
+Saved plot to result/convergence_p69_i499_s16128.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #10
+Parameters: Pop=163, Iter=369, Seed=5615
+----------------------------------------------------------------
+Parameters: pop_size=163, iterations=369, seed=5615, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)
+GA crossover solutions: 30258
+GA mutation solutions: 3023
+GA total solutions: 33281
+GA time (ms): 49
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)
+MA crossover solutions: 30258
+MA mutation solutions: 3078
+MA total solutions: 33336
+MA time (ms): 278
+
+Saved plot to result/convergence_p163_i369_s5615.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #11
+Parameters: Pop=86, Iter=127, Seed=1947
+----------------------------------------------------------------
+Parameters: pop_size=86, iterations=127, seed=1947, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(a)–(j)–(b)–(k)
+GA crossover solutions: 5588
+GA mutation solutions: 543
+GA total solutions: 6131
+GA time (ms): 9
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)
+MA crossover solutions: 5588
+MA mutation solutions: 519
+MA total solutions: 6107
+MA time (ms): 49
+
+Saved plot to result/convergence_p86_i127_s1947.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #12
+Parameters: Pop=126, Iter=823, Seed=2554
+----------------------------------------------------------------
+Parameters: pop_size=126, iterations=823, seed=2554, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)
+GA crossover solutions: 52672
+GA mutation solutions: 5353
+GA total solutions: 58025
+GA time (ms): 86
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)
+MA crossover solutions: 52672
+MA mutation solutions: 5317
+MA total solutions: 57989
+MA time (ms): 476
+
+Saved plot to result/convergence_p126_i823_s2554.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #13
+Parameters: Pop=62, Iter=841, Seed=2512
+----------------------------------------------------------------
+Parameters: pop_size=62, iterations=841, seed=2512, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)
+GA crossover solutions: 26912
+GA mutation solutions: 2724
+GA total solutions: 29636
+GA time (ms): 45
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+MA crossover solutions: 26912
+MA mutation solutions: 2624
+MA total solutions: 29536
+MA time (ms): 240
+
+Saved plot to result/convergence_p62_i841_s2512.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #14
+Parameters: Pop=188, Iter=137, Seed=8274
+----------------------------------------------------------------
+Parameters: pop_size=188, iterations=137, seed=8274, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)
+GA crossover solutions: 12878
+GA mutation solutions: 1298
+GA total solutions: 14176
+GA time (ms): 22
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+MA crossover solutions: 12878
+MA mutation solutions: 1323
+MA total solutions: 14201
+MA time (ms): 118
+
+Saved plot to result/convergence_p188_i137_s8274.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #15
+Parameters: Pop=42, Iter=327, Seed=12591
+----------------------------------------------------------------
+Parameters: pop_size=42, iterations=327, seed=12591, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+GA crossover solutions: 7194
+GA mutation solutions: 757
+GA total solutions: 7951
+GA time (ms): 12
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)
+MA crossover solutions: 7194
+MA mutation solutions: 716
+MA total solutions: 7910
+MA time (ms): 65
+
+Saved plot to result/convergence_p42_i327_s12591.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #16
+Parameters: Pop=42, Iter=530, Seed=3926
+----------------------------------------------------------------
+Parameters: pop_size=42, iterations=530, seed=3926, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)
+GA crossover solutions: 11660
+GA mutation solutions: 1193
+GA total solutions: 12853
+GA time (ms): 19
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (d)–(k)–(b)–(a)–(j)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(d)
+MA crossover solutions: 11660
+MA mutation solutions: 1211
+MA total solutions: 12871
+MA time (ms): 117
+
+Saved plot to result/convergence_p42_i530_s3926.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #17
+Parameters: Pop=193, Iter=308, Seed=29100
+----------------------------------------------------------------
+Parameters: pop_size=193, iterations=308, seed=29100, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (i)–(d)–(k)–(c)–(j)–(a)–(b)–(h)–(l)–(g)–(f)–(e)–(i)
+GA crossover solutions: 29568
+GA mutation solutions: 2978
+GA total solutions: 32546
+GA time (ms): 51
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)
+MA crossover solutions: 29568
+MA mutation solutions: 2969
+MA total solutions: 32537
+MA time (ms): 272
+
+Saved plot to result/convergence_p193_i308_s29100.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #18
+Parameters: Pop=62, Iter=600, Seed=19476
+----------------------------------------------------------------
+Parameters: pop_size=62, iterations=600, seed=19476, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (h)–(c)–(k)–(j)–(a)–(b)–(i)–(e)–(f)–(d)–(g)–(l)–(h)
+GA crossover solutions: 19200
+GA mutation solutions: 1845
+GA total solutions: 21045
+GA time (ms): 31
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1518
+MA best tour: (d)–(i)–(e)–(f)–(g)–(l)–(h)–(b)–(a)–(j)–(c)–(k)–(d)
+MA crossover solutions: 19200
+MA mutation solutions: 1906
+MA total solutions: 21106
+MA time (ms): 177
+
+Saved plot to result/convergence_p62_i600_s19476.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #19
+Parameters: Pop=107, Iter=721, Seed=29875
+----------------------------------------------------------------
+Parameters: pop_size=107, iterations=721, seed=29875, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (e)–(d)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+GA crossover solutions: 38934
+GA mutation solutions: 3875
+GA total solutions: 42809
+GA time (ms): 64
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)
+MA crossover solutions: 38934
+MA mutation solutions: 3897
+MA total solutions: 42831
+MA time (ms): 351
+
+Saved plot to result/convergence_p107_i721_s29875.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #20
+Parameters: Pop=27, Iter=628, Seed=25458
+----------------------------------------------------------------
+Parameters: pop_size=27, iterations=628, seed=25458, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+GA crossover solutions: 8792
+GA mutation solutions: 871
+GA total solutions: 9663
+GA time (ms): 14
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)
+MA crossover solutions: 8792
+MA mutation solutions: 891
+MA total solutions: 9683
+MA time (ms): 79
+
+Saved plot to result/convergence_p27_i628_s25458.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #21
+Parameters: Pop=30, Iter=811, Seed=31606
+----------------------------------------------------------------
+Parameters: pop_size=30, iterations=811, seed=31606, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (h)–(l)–(f)–(e)–(i)–(k)–(c)–(j)–(a)–(b)–(d)–(g)–(h)
+GA crossover solutions: 12976
+GA mutation solutions: 1276
+GA total solutions: 14252
+GA time (ms): 20
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)–(c)–(j)–(a)
+MA crossover solutions: 12976
+MA mutation solutions: 1268
+MA total solutions: 14244
+MA time (ms): 116
+
+Saved plot to result/convergence_p30_i811_s31606.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #22
+Parameters: Pop=135, Iter=195, Seed=15595
+----------------------------------------------------------------
+Parameters: pop_size=135, iterations=195, seed=15595, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)
+GA crossover solutions: 13260
+GA mutation solutions: 1346
+GA total solutions: 14606
+GA time (ms): 22
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)
+MA crossover solutions: 13260
+MA mutation solutions: 1343
+MA total solutions: 14603
+MA time (ms): 119
+
+Saved plot to result/convergence_p135_i195_s15595.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #23
+Parameters: Pop=125, Iter=341, Seed=8584
+----------------------------------------------------------------
+Parameters: pop_size=125, iterations=341, seed=8584, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (a)–(j)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(d)–(k)–(b)–(a)
+GA crossover solutions: 21142
+GA mutation solutions: 2086
+GA total solutions: 23228
+GA time (ms): 37
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+MA crossover solutions: 21142
+MA mutation solutions: 2065
+MA total solutions: 23207
+MA time (ms): 206
+
+Saved plot to result/convergence_p125_i341_s8584.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #24
+Parameters: Pop=173, Iter=404, Seed=6385
+----------------------------------------------------------------
+Parameters: pop_size=173, iterations=404, seed=6385, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)
+GA crossover solutions: 34744
+GA mutation solutions: 3503
+GA total solutions: 38247
+GA time (ms): 57
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)
+MA crossover solutions: 34744
+MA mutation solutions: 3447
+MA total solutions: 38191
+MA time (ms): 317
+
+Saved plot to result/convergence_p173_i404_s6385.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #25
+Parameters: Pop=115, Iter=605, Seed=5747
+----------------------------------------------------------------
+Parameters: pop_size=115, iterations=605, seed=5747, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+GA crossover solutions: 35090
+GA mutation solutions: 3545
+GA total solutions: 38635
+GA time (ms): 61
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (c)–(k)–(b)–(j)–(a)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)
+MA crossover solutions: 35090
+MA mutation solutions: 3501
+MA total solutions: 38591
+MA time (ms): 329
+
+Saved plot to result/convergence_p115_i605_s5747.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #26
+Parameters: Pop=85, Iter=280, Seed=23526
+----------------------------------------------------------------
+Parameters: pop_size=85, iterations=280, seed=23526, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (i)–(e)–(f)–(d)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)
+GA crossover solutions: 11760
+GA mutation solutions: 1098
+GA total solutions: 12858
+GA time (ms): 19
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1505
+MA best tour: (e)–(k)–(c)–(j)–(a)–(b)–(i)–(d)–(h)–(l)–(g)–(f)–(e)
+MA crossover solutions: 11760
+MA mutation solutions: 1084
+MA total solutions: 12844
+MA time (ms): 106
+
+Saved plot to result/convergence_p85_i280_s23526.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #27
+Parameters: Pop=86, Iter=789, Seed=13862
+----------------------------------------------------------------
+Parameters: pop_size=86, iterations=789, seed=13862, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1485
+GA best tour: (b)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(k)–(c)–(j)–(a)–(b)
+GA crossover solutions: 34716
+GA mutation solutions: 3476
+GA total solutions: 38192
+GA time (ms): 57
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1501
+MA best tour: (c)–(k)–(b)–(j)–(a)–(i)–(e)–(f)–(d)–(g)–(l)–(h)–(c)
+MA crossover solutions: 34716
+MA mutation solutions: 3510
+MA total solutions: 38226
+MA time (ms): 314
+
+Saved plot to result/convergence_p86_i789_s13862.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #28
+Parameters: Pop=114, Iter=179, Seed=13786
+----------------------------------------------------------------
+Parameters: pop_size=114, iterations=179, seed=13786, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (g)–(f)–(e)–(d)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)
+GA crossover solutions: 10382
+GA mutation solutions: 1009
+GA total solutions: 11391
+GA time (ms): 17
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)
+MA crossover solutions: 10382
+MA mutation solutions: 1004
+MA total solutions: 11386
+MA time (ms): 97
+
+Saved plot to result/convergence_p114_i179_s13786.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #29
+Parameters: Pop=101, Iter=578, Seed=12699
+----------------------------------------------------------------
+Parameters: pop_size=101, iterations=578, seed=12699, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1493
+GA best tour: (g)–(l)–(h)–(c)–(j)–(a)–(b)–(i)–(k)–(d)–(e)–(f)–(g)
+GA crossover solutions: 28900
+GA mutation solutions: 2944
+GA total solutions: 31844
+GA time (ms): 47
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)
+MA crossover solutions: 28900
+MA mutation solutions: 2998
+MA total solutions: 31898
+MA time (ms): 263
+
+Saved plot to result/convergence_p101_i578_s12699.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #30
+Parameters: Pop=152, Iter=553, Seed=16417
+----------------------------------------------------------------
+Parameters: pop_size=152, iterations=553, seed=16417, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)
+GA crossover solutions: 42028
+GA mutation solutions: 4258
+GA total solutions: 46286
+GA time (ms): 69
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1518
+MA best tour: (i)–(e)–(f)–(l)–(h)–(g)–(d)–(b)–(a)–(j)–(c)–(k)–(i)
+MA crossover solutions: 42028
+MA mutation solutions: 4165
+MA total solutions: 46193
+MA time (ms): 375
+
+Saved plot to result/convergence_p152_i553_s16417.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #31
+Parameters: Pop=31, Iter=784, Seed=6896
+----------------------------------------------------------------
+Parameters: pop_size=31, iterations=784, seed=6896, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (d)–(g)–(h)–(l)–(f)–(e)–(i)–(k)–(c)–(j)–(a)–(b)–(d)
+GA crossover solutions: 12544
+GA mutation solutions: 1309
+GA total solutions: 13853
+GA time (ms): 20
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1518
+MA best tour: (l)–(g)–(f)–(e)–(i)–(d)–(k)–(c)–(j)–(a)–(b)–(h)–(l)
+MA crossover solutions: 12544
+MA mutation solutions: 1236
+MA total solutions: 13780
+MA time (ms): 112
+
+Saved plot to result/convergence_p31_i784_s6896.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #32
+Parameters: Pop=31, Iter=825, Seed=29850
+----------------------------------------------------------------
+Parameters: pop_size=31, iterations=825, seed=29850, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)
+GA crossover solutions: 13200
+GA mutation solutions: 1349
+GA total solutions: 14549
+GA time (ms): 23
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)
+MA crossover solutions: 13200
+MA mutation solutions: 1320
+MA total solutions: 14520
+MA time (ms): 120
+
+Saved plot to result/convergence_p31_i825_s29850.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #33
+Parameters: Pop=83, Iter=157, Seed=1230
+----------------------------------------------------------------
+Parameters: pop_size=83, iterations=157, seed=1230, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 6594
+GA mutation solutions: 659
+GA total solutions: 7253
+GA time (ms): 10
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (h)–(c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)
+MA crossover solutions: 6594
+MA mutation solutions: 652
+MA total solutions: 7246
+MA time (ms): 58
+
+Saved plot to result/convergence_p83_i157_s1230.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #34
+Parameters: Pop=25, Iter=759, Seed=23376
+----------------------------------------------------------------
+Parameters: pop_size=25, iterations=759, seed=23376, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1569
+GA best tour: (i)–(e)–(f)–(d)–(k)–(g)–(l)–(h)–(c)–(j)–(a)–(b)–(i)
+GA crossover solutions: 9108
+GA mutation solutions: 935
+GA total solutions: 10043
+GA time (ms): 16
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)
+MA crossover solutions: 9108
+MA mutation solutions: 923
+MA total solutions: 10031
+MA time (ms): 82
+
+Saved plot to result/convergence_p25_i759_s23376.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #35
+Parameters: Pop=140, Iter=910, Seed=13046
+----------------------------------------------------------------
+Parameters: pop_size=140, iterations=910, seed=13046, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)
+GA crossover solutions: 63700
+GA mutation solutions: 6308
+GA total solutions: 70008
+GA time (ms): 108
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+MA crossover solutions: 63700
+MA mutation solutions: 6368
+MA total solutions: 70068
+MA time (ms): 583
+
+Saved plot to result/convergence_p140_i910_s13046.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #36
+Parameters: Pop=21, Iter=502, Seed=94
+----------------------------------------------------------------
+Parameters: pop_size=21, iterations=502, seed=94, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)
+GA crossover solutions: 5020
+GA mutation solutions: 528
+GA total solutions: 5548
+GA time (ms): 11
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (e)–(f)–(g)–(l)–(h)–(c)–(k)–(b)–(j)–(a)–(i)–(d)–(e)
+MA crossover solutions: 5020
+MA mutation solutions: 502
+MA total solutions: 5522
+MA time (ms): 48
+
+Saved plot to result/convergence_p21_i502_s94.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #37
+Parameters: Pop=28, Iter=427, Seed=1712
+----------------------------------------------------------------
+Parameters: pop_size=28, iterations=427, seed=1712, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (c)–(j)–(a)–(b)–(i)–(e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)
+GA crossover solutions: 5978
+GA mutation solutions: 561
+GA total solutions: 6539
+GA time (ms): 10
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+MA crossover solutions: 5978
+MA mutation solutions: 584
+MA total solutions: 6562
+MA time (ms): 54
+
+Saved plot to result/convergence_p28_i427_s1712.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #38
+Parameters: Pop=61, Iter=722, Seed=24388
+----------------------------------------------------------------
+Parameters: pop_size=61, iterations=722, seed=24388, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)
+GA crossover solutions: 21660
+GA mutation solutions: 2193
+GA total solutions: 23853
+GA time (ms): 36
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (f)–(d)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(e)–(f)
+MA crossover solutions: 21660
+MA mutation solutions: 2144
+MA total solutions: 23804
+MA time (ms): 197
+
+Saved plot to result/convergence_p61_i722_s24388.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #39
+Parameters: Pop=151, Iter=885, Seed=27128
+----------------------------------------------------------------
+Parameters: pop_size=151, iterations=885, seed=27128, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1505
+GA best tour: (j)–(c)–(k)–(e)–(f)–(g)–(l)–(h)–(d)–(i)–(b)–(a)–(j)
+GA crossover solutions: 67260
+GA mutation solutions: 6753
+GA total solutions: 74013
+GA time (ms): 114
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)
+MA crossover solutions: 67260
+MA mutation solutions: 6686
+MA total solutions: 73946
+MA time (ms): 604
+
+Saved plot to result/convergence_p151_i885_s27128.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #40
+Parameters: Pop=46, Iter=917, Seed=29901
+----------------------------------------------------------------
+Parameters: pop_size=46, iterations=917, seed=29901, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (d)–(i)–(e)–(f)–(g)–(l)–(h)–(c)–(j)–(a)–(b)–(k)–(d)
+GA crossover solutions: 22008
+GA mutation solutions: 2220
+GA total solutions: 24228
+GA time (ms): 35
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)
+MA crossover solutions: 22008
+MA mutation solutions: 2205
+MA total solutions: 24213
+MA time (ms): 198
+
+Saved plot to result/convergence_p46_i917_s29901.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #41
+Parameters: Pop=37, Iter=163, Seed=10287
+----------------------------------------------------------------
+Parameters: pop_size=37, iterations=163, seed=10287, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)
+GA crossover solutions: 2934
+GA mutation solutions: 248
+GA total solutions: 3182
+GA time (ms): 5
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)
+MA crossover solutions: 2934
+MA mutation solutions: 292
+MA total solutions: 3226
+MA time (ms): 29
+
+Saved plot to result/convergence_p37_i163_s10287.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #42
+Parameters: Pop=173, Iter=375, Seed=32598
+----------------------------------------------------------------
+Parameters: pop_size=173, iterations=375, seed=32598, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(l)–(h)
+GA crossover solutions: 32250
+GA mutation solutions: 3145
+GA total solutions: 35395
+GA time (ms): 57
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (d)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(e)–(f)–(d)
+MA crossover solutions: 32250
+MA mutation solutions: 3150
+MA total solutions: 35400
+MA time (ms): 307
+
+Saved plot to result/convergence_p173_i375_s32598.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #43
+Parameters: Pop=170, Iter=356, Seed=7471
+----------------------------------------------------------------
+Parameters: pop_size=170, iterations=356, seed=7471, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)
+GA crossover solutions: 30616
+GA mutation solutions: 2914
+GA total solutions: 33530
+GA time (ms): 58
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)
+MA crossover solutions: 30616
+MA mutation solutions: 2990
+MA total solutions: 33606
+MA time (ms): 291
+
+Saved plot to result/convergence_p170_i356_s7471.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #44
+Parameters: Pop=62, Iter=175, Seed=17224
+----------------------------------------------------------------
+Parameters: pop_size=62, iterations=175, seed=17224, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)–(c)
+GA crossover solutions: 5600
+GA mutation solutions: 560
+GA total solutions: 6160
+GA time (ms): 9
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)
+MA crossover solutions: 5600
+MA mutation solutions: 574
+MA total solutions: 6174
+MA time (ms): 50
+
+Saved plot to result/convergence_p62_i175_s17224.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #45
+Parameters: Pop=73, Iter=860, Seed=27365
+----------------------------------------------------------------
+Parameters: pop_size=73, iterations=860, seed=27365, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+GA crossover solutions: 30960
+GA mutation solutions: 3114
+GA total solutions: 34074
+GA time (ms): 53
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)
+MA crossover solutions: 30960
+MA mutation solutions: 3080
+MA total solutions: 34040
+MA time (ms): 350
+
+Saved plot to result/convergence_p73_i860_s27365.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #46
+Parameters: Pop=78, Iter=243, Seed=7153
+----------------------------------------------------------------
+Parameters: pop_size=78, iterations=243, seed=7153, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1501
+GA best tour: (d)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(a)–(j)–(b)–(d)
+GA crossover solutions: 9720
+GA mutation solutions: 980
+GA total solutions: 10700
+GA time (ms): 17
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)
+MA crossover solutions: 9720
+MA mutation solutions: 984
+MA total solutions: 10704
+MA time (ms): 92
+
+Saved plot to result/convergence_p78_i243_s7153.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #47
+Parameters: Pop=160, Iter=104, Seed=26288
+----------------------------------------------------------------
+Parameters: pop_size=160, iterations=104, seed=26288, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(d)
+GA crossover solutions: 8320
+GA mutation solutions: 837
+GA total solutions: 9157
+GA time (ms): 17
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+MA crossover solutions: 8320
+MA mutation solutions: 851
+MA total solutions: 9171
+MA time (ms): 85
+
+Saved plot to result/convergence_p160_i104_s26288.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #48
+Parameters: Pop=151, Iter=530, Seed=4623
+----------------------------------------------------------------
+Parameters: pop_size=151, iterations=530, seed=4623, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)
+GA crossover solutions: 40280
+GA mutation solutions: 4006
+GA total solutions: 44286
+GA time (ms): 72
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)
+MA crossover solutions: 40280
+MA mutation solutions: 3968
+MA total solutions: 44248
+MA time (ms): 419
+
+Saved plot to result/convergence_p151_i530_s4623.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #49
+Parameters: Pop=154, Iter=182, Seed=4439
+----------------------------------------------------------------
+Parameters: pop_size=154, iterations=182, seed=4439, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1431
+GA best tour: (k)–(d)–(h)–(g)–(l)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+GA crossover solutions: 14196
+GA mutation solutions: 1414
+GA total solutions: 15610
+GA time (ms): 26
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+MA crossover solutions: 14196
+MA mutation solutions: 1392
+MA total solutions: 15588
+MA time (ms): 139
+
+Saved plot to result/convergence_p154_i182_s4439.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #50
+Parameters: Pop=146, Iter=942, Seed=16583
+----------------------------------------------------------------
+Parameters: pop_size=146, iterations=942, seed=16583, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1485
+GA best tour: (j)–(a)–(b)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(k)–(c)–(j)
+GA crossover solutions: 69708
+GA mutation solutions: 6864
+GA total solutions: 76572
+GA time (ms): 119
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)
+MA crossover solutions: 69708
+MA mutation solutions: 7077
+MA total solutions: 76785
+MA time (ms): 661
+
+Saved plot to result/convergence_p146_i942_s16583.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #51
+Parameters: Pop=168, Iter=941, Seed=15725
+----------------------------------------------------------------
+Parameters: pop_size=168, iterations=941, seed=15725, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1485
+GA best tour: (b)–(a)–(j)–(c)–(k)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(b)
+GA crossover solutions: 79044
+GA mutation solutions: 7966
+GA total solutions: 87010
+GA time (ms): 144
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)
+MA crossover solutions: 79044
+MA mutation solutions: 7919
+MA total solutions: 86963
+MA time (ms): 807
+
+Saved plot to result/convergence_p168_i941_s15725.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #52
+Parameters: Pop=66, Iter=400, Seed=5316
+----------------------------------------------------------------
+Parameters: pop_size=66, iterations=400, seed=5316, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(a)
+GA crossover solutions: 13600
+GA mutation solutions: 1348
+GA total solutions: 14948
+GA time (ms): 23
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (d)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+MA crossover solutions: 13600
+MA mutation solutions: 1337
+MA total solutions: 14937
+MA time (ms): 131
+
+Saved plot to result/convergence_p66_i400_s5316.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #53
+Parameters: Pop=45, Iter=949, Seed=13837
+----------------------------------------------------------------
+Parameters: pop_size=45, iterations=949, seed=13837, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(a)–(j)–(b)
+GA crossover solutions: 20878
+GA mutation solutions: 2082
+GA total solutions: 22960
+GA time (ms): 40
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1501
+MA best tour: (b)–(d)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(a)–(j)–(b)
+MA crossover solutions: 20878
+MA mutation solutions: 2086
+MA total solutions: 22964
+MA time (ms): 227
+
+Saved plot to result/convergence_p45_i949_s13837.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #54
+Parameters: Pop=159, Iter=211, Seed=18038
+----------------------------------------------------------------
+Parameters: pop_size=159, iterations=211, seed=18038, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (i)–(k)–(c)–(j)–(a)–(b)–(d)–(g)–(h)–(l)–(f)–(e)–(i)
+GA crossover solutions: 16880
+GA mutation solutions: 1630
+GA total solutions: 18510
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)
+MA crossover solutions: 16880
+MA mutation solutions: 1684
+MA total solutions: 18564
+MA time (ms): 161
+
+Saved plot to result/convergence_p159_i211_s18038.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #55
+Parameters: Pop=125, Iter=555, Seed=19715
+----------------------------------------------------------------
+Parameters: pop_size=125, iterations=555, seed=19715, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1501
+GA best tour: (i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)
+GA crossover solutions: 34410
+GA mutation solutions: 3495
+GA total solutions: 37905
+GA time (ms): 64
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)
+MA crossover solutions: 34410
+MA mutation solutions: 3465
+MA total solutions: 37875
+MA time (ms): 329
+
+Saved plot to result/convergence_p125_i555_s19715.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #56
+Parameters: Pop=122, Iter=492, Seed=5279
+----------------------------------------------------------------
+Parameters: pop_size=122, iterations=492, seed=5279, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1493
+GA best tour: (f)–(g)–(l)–(h)–(c)–(j)–(a)–(b)–(i)–(k)–(d)–(e)–(f)
+GA crossover solutions: 30504
+GA mutation solutions: 3135
+GA total solutions: 33639
+GA time (ms): 52
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)
+MA crossover solutions: 30504
+MA mutation solutions: 3040
+MA total solutions: 33544
+MA time (ms): 294
+
+Saved plot to result/convergence_p122_i492_s5279.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #57
+Parameters: Pop=139, Iter=151, Seed=30013
+----------------------------------------------------------------
+Parameters: pop_size=139, iterations=151, seed=30013, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (j)–(c)–(k)–(d)–(g)–(h)–(l)–(f)–(e)–(i)–(b)–(a)–(j)
+GA crossover solutions: 10570
+GA mutation solutions: 1046
+GA total solutions: 11616
+GA time (ms): 18
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (j)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(d)–(k)–(b)–(a)–(j)
+MA crossover solutions: 10570
+MA mutation solutions: 1049
+MA total solutions: 11619
+MA time (ms): 102
+
+Saved plot to result/convergence_p139_i151_s30013.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #58
+Parameters: Pop=68, Iter=136, Seed=32454
+----------------------------------------------------------------
+Parameters: pop_size=68, iterations=136, seed=32454, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (c)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)–(b)–(a)–(j)–(c)
+GA crossover solutions: 4624
+GA mutation solutions: 474
+GA total solutions: 5098
+GA time (ms): 8
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)
+MA crossover solutions: 4624
+MA mutation solutions: 470
+MA total solutions: 5094
+MA time (ms): 47
+
+Saved plot to result/convergence_p68_i136_s32454.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #59
+Parameters: Pop=57, Iter=585, Seed=10137
+----------------------------------------------------------------
+Parameters: pop_size=57, iterations=585, seed=10137, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)
+GA crossover solutions: 16380
+GA mutation solutions: 1683
+GA total solutions: 18063
+GA time (ms): 31
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)
+MA crossover solutions: 16380
+MA mutation solutions: 1615
+MA total solutions: 17995
+MA time (ms): 155
+
+Saved plot to result/convergence_p57_i585_s10137.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #60
+Parameters: Pop=143, Iter=799, Seed=10083
+----------------------------------------------------------------
+Parameters: pop_size=143, iterations=799, seed=10083, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)
+GA crossover solutions: 57528
+GA mutation solutions: 5753
+GA total solutions: 63281
+GA time (ms): 102
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (l)–(h)–(c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)
+MA crossover solutions: 57528
+MA mutation solutions: 5609
+MA total solutions: 63137
+MA time (ms): 554
+
+Saved plot to result/convergence_p143_i799_s10083.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #61
+Parameters: Pop=128, Iter=874, Seed=5554
+----------------------------------------------------------------
+Parameters: pop_size=128, iterations=874, seed=5554, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)
+GA crossover solutions: 55936
+GA mutation solutions: 5638
+GA total solutions: 61574
+GA time (ms): 100
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)
+MA crossover solutions: 55936
+MA mutation solutions: 5708
+MA total solutions: 61644
+MA time (ms): 527
+
+Saved plot to result/convergence_p128_i874_s5554.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #62
+Parameters: Pop=164, Iter=479, Seed=29048
+----------------------------------------------------------------
+Parameters: pop_size=164, iterations=479, seed=29048, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)–(c)–(j)
+GA crossover solutions: 39278
+GA mutation solutions: 3961
+GA total solutions: 43239
+GA time (ms): 69
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)
+MA crossover solutions: 39278
+MA mutation solutions: 3948
+MA total solutions: 43226
+MA time (ms): 434
+
+Saved plot to result/convergence_p164_i479_s29048.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #63
+Parameters: Pop=193, Iter=478, Seed=6909
+----------------------------------------------------------------
+Parameters: pop_size=193, iterations=478, seed=6909, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1485
+GA best tour: (k)–(c)–(j)–(a)–(b)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(k)
+GA crossover solutions: 45888
+GA mutation solutions: 4471
+GA total solutions: 50359
+GA time (ms): 83
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)
+MA crossover solutions: 45888
+MA mutation solutions: 4533
+MA total solutions: 50421
+MA time (ms): 436
+
+Saved plot to result/convergence_p193_i478_s6909.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #64
+Parameters: Pop=102, Iter=113, Seed=12169
+----------------------------------------------------------------
+Parameters: pop_size=102, iterations=113, seed=12169, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1485
+GA best tour: (i)–(e)–(f)–(g)–(l)–(h)–(d)–(b)–(a)–(j)–(c)–(k)–(i)
+GA crossover solutions: 5876
+GA mutation solutions: 611
+GA total solutions: 6487
+GA time (ms): 10
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (b)–(a)–(j)–(c)–(k)–(d)–(g)–(h)–(l)–(f)–(e)–(i)–(b)
+MA crossover solutions: 5876
+MA mutation solutions: 576
+MA total solutions: 6452
+MA time (ms): 56
+
+Saved plot to result/convergence_p102_i113_s12169.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #65
+Parameters: Pop=65, Iter=584, Seed=7971
+----------------------------------------------------------------
+Parameters: pop_size=65, iterations=584, seed=7971, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)
+GA crossover solutions: 18688
+GA mutation solutions: 1906
+GA total solutions: 20594
+GA time (ms): 33
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1505
+MA best tour: (i)–(d)–(h)–(l)–(g)–(f)–(e)–(k)–(c)–(j)–(a)–(b)–(i)
+MA crossover solutions: 18688
+MA mutation solutions: 1910
+MA total solutions: 20598
+MA time (ms): 179
+
+Saved plot to result/convergence_p65_i584_s7971.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #66
+Parameters: Pop=23, Iter=508, Seed=24442
+----------------------------------------------------------------
+Parameters: pop_size=23, iterations=508, seed=24442, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+GA crossover solutions: 6096
+GA mutation solutions: 583
+GA total solutions: 6679
+GA time (ms): 10
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)
+MA crossover solutions: 6096
+MA mutation solutions: 569
+MA total solutions: 6665
+MA time (ms): 57
+
+Saved plot to result/convergence_p23_i508_s24442.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #67
+Parameters: Pop=130, Iter=387, Seed=624
+----------------------------------------------------------------
+Parameters: pop_size=130, iterations=387, seed=624, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)
+GA crossover solutions: 25542
+GA mutation solutions: 2498
+GA total solutions: 28040
+GA time (ms): 43
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1485
+MA best tour: (b)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(k)–(c)–(j)–(a)–(b)
+MA crossover solutions: 25542
+MA mutation solutions: 2577
+MA total solutions: 28119
+MA time (ms): 241
+
+Saved plot to result/convergence_p130_i387_s624.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #68
+Parameters: Pop=166, Iter=739, Seed=4804
+----------------------------------------------------------------
+Parameters: pop_size=166, iterations=739, seed=4804, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 62076
+GA mutation solutions: 6166
+GA total solutions: 68242
+GA time (ms): 106
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+MA crossover solutions: 62076
+MA mutation solutions: 6229
+MA total solutions: 68305
+MA time (ms): 585
+
+Saved plot to result/convergence_p166_i739_s4804.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #69
+Parameters: Pop=91, Iter=366, Seed=18837
+----------------------------------------------------------------
+Parameters: pop_size=91, iterations=366, seed=18837, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1501
+GA best tour: (a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(d)–(f)–(e)–(i)–(a)
+GA crossover solutions: 16836
+GA mutation solutions: 1660
+GA total solutions: 18496
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (g)–(l)–(h)–(c)–(k)–(b)–(j)–(a)–(i)–(d)–(e)–(f)–(g)
+MA crossover solutions: 16836
+MA mutation solutions: 1619
+MA total solutions: 18455
+MA time (ms): 158
+
+Saved plot to result/convergence_p91_i366_s18837.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #70
+Parameters: Pop=162, Iter=594, Seed=32178
+----------------------------------------------------------------
+Parameters: pop_size=162, iterations=594, seed=32178, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+GA crossover solutions: 48708
+GA mutation solutions: 4873
+GA total solutions: 53581
+GA time (ms): 87
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)
+MA crossover solutions: 48708
+MA mutation solutions: 4836
+MA total solutions: 53544
+MA time (ms): 454
+
+Saved plot to result/convergence_p162_i594_s32178.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #71
+Parameters: Pop=170, Iter=547, Seed=32360
+----------------------------------------------------------------
+Parameters: pop_size=170, iterations=547, seed=32360, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)
+GA crossover solutions: 47042
+GA mutation solutions: 4790
+GA total solutions: 51832
+GA time (ms): 81
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)
+MA crossover solutions: 47042
+MA mutation solutions: 4696
+MA total solutions: 51738
+MA time (ms): 448
+
+Saved plot to result/convergence_p170_i547_s32360.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #72
+Parameters: Pop=74, Iter=681, Seed=25944
+----------------------------------------------------------------
+Parameters: pop_size=74, iterations=681, seed=25944, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+GA crossover solutions: 25878
+GA mutation solutions: 2608
+GA total solutions: 28486
+GA time (ms): 44
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(e)–(f)–(d)–(g)
+MA crossover solutions: 25878
+MA mutation solutions: 2606
+MA total solutions: 28484
+MA time (ms): 244
+
+Saved plot to result/convergence_p74_i681_s25944.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #73
+Parameters: Pop=194, Iter=922, Seed=10478
+----------------------------------------------------------------
+Parameters: pop_size=194, iterations=922, seed=10478, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)
+GA crossover solutions: 90356
+GA mutation solutions: 9194
+GA total solutions: 99550
+GA time (ms): 155
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)
+MA crossover solutions: 90356
+MA mutation solutions: 9031
+MA total solutions: 99387
+MA time (ms): 3732
+
+Saved plot to result/convergence_p194_i922_s10478.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #74
+Parameters: Pop=78, Iter=763, Seed=3743
+----------------------------------------------------------------
+Parameters: pop_size=78, iterations=763, seed=3743, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (l)–(h)–(c)–(j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)
+GA crossover solutions: 30520
+GA mutation solutions: 3069
+GA total solutions: 33589
+GA time (ms): 53
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (g)–(f)–(e)–(d)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)
+MA crossover solutions: 30520
+MA mutation solutions: 3091
+MA total solutions: 33611
+MA time (ms): 291
+
+Saved plot to result/convergence_p78_i763_s3743.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #75
+Parameters: Pop=93, Iter=882, Seed=19951
+----------------------------------------------------------------
+Parameters: pop_size=93, iterations=882, seed=19951, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)
+GA crossover solutions: 40572
+GA mutation solutions: 4008
+GA total solutions: 44580
+GA time (ms): 71
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)
+MA crossover solutions: 40572
+MA mutation solutions: 4058
+MA total solutions: 44630
+MA time (ms): 380
+
+Saved plot to result/convergence_p93_i882_s19951.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #76
+Parameters: Pop=80, Iter=499, Seed=15608
+----------------------------------------------------------------
+Parameters: pop_size=80, iterations=499, seed=15608, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1493
+GA best tour: (c)–(h)–(l)–(g)–(f)–(e)–(d)–(k)–(i)–(b)–(a)–(j)–(c)
+GA crossover solutions: 19960
+GA mutation solutions: 2021
+GA total solutions: 21981
+GA time (ms): 33
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1493
+MA best tour: (c)–(h)–(l)–(g)–(f)–(e)–(d)–(k)–(i)–(b)–(a)–(j)–(c)
+MA crossover solutions: 19960
+MA mutation solutions: 1991
+MA total solutions: 21951
+MA time (ms): 192
+
+Saved plot to result/convergence_p80_i499_s15608.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #77
+Parameters: Pop=177, Iter=554, Seed=3621
+----------------------------------------------------------------
+Parameters: pop_size=177, iterations=554, seed=3621, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (e)–(d)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+GA crossover solutions: 48752
+GA mutation solutions: 4945
+GA total solutions: 53697
+GA time (ms): 82
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1467
+MA best tour: (j)–(b)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(a)–(j)
+MA crossover solutions: 48752
+MA mutation solutions: 4962
+MA total solutions: 53714
+MA time (ms): 451
+
+Saved plot to result/convergence_p177_i554_s3621.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #78
+Parameters: Pop=34, Iter=415, Seed=27817
+----------------------------------------------------------------
+Parameters: pop_size=34, iterations=415, seed=27817, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)
+GA crossover solutions: 7470
+GA mutation solutions: 766
+GA total solutions: 8236
+GA time (ms): 12
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (a)–(b)–(i)–(e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)
+MA crossover solutions: 7470
+MA mutation solutions: 732
+MA total solutions: 8202
+MA time (ms): 71
+
+Saved plot to result/convergence_p34_i415_s27817.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #79
+Parameters: Pop=95, Iter=459, Seed=21625
+----------------------------------------------------------------
+Parameters: pop_size=95, iterations=459, seed=21625, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (k)–(d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)
+GA crossover solutions: 22032
+GA mutation solutions: 2165
+GA total solutions: 24197
+GA time (ms): 38
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)
+MA crossover solutions: 22032
+MA mutation solutions: 2168
+MA total solutions: 24200
+MA time (ms): 205
+
+Saved plot to result/convergence_p95_i459_s21625.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #80
+Parameters: Pop=115, Iter=350, Seed=21702
+----------------------------------------------------------------
+Parameters: pop_size=115, iterations=350, seed=21702, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+GA crossover solutions: 20300
+GA mutation solutions: 1970
+GA total solutions: 22270
+GA time (ms): 35
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(g)–(h)–(l)–(f)
+MA crossover solutions: 20300
+MA mutation solutions: 1970
+MA total solutions: 22270
+MA time (ms): 197
+
+Saved plot to result/convergence_p115_i350_s21702.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #81
+Parameters: Pop=122, Iter=876, Seed=27030
+----------------------------------------------------------------
+Parameters: pop_size=122, iterations=876, seed=27030, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (j)–(a)–(b)–(k)–(d)–(i)–(e)–(f)–(g)–(l)–(h)–(c)–(j)
+GA crossover solutions: 54312
+GA mutation solutions: 5502
+GA total solutions: 59814
+GA time (ms): 94
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1485
+MA best tour: (k)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(b)–(a)–(j)–(c)–(k)
+MA crossover solutions: 54312
+MA mutation solutions: 5518
+MA total solutions: 59830
+MA time (ms): 531
+
+Saved plot to result/convergence_p122_i876_s27030.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #82
+Parameters: Pop=37, Iter=761, Seed=12842
+----------------------------------------------------------------
+Parameters: pop_size=37, iterations=761, seed=12842, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1501
+GA best tour: (f)–(e)–(i)–(a)–(j)–(b)–(k)–(c)–(h)–(l)–(g)–(d)–(f)
+GA crossover solutions: 13698
+GA mutation solutions: 1330
+GA total solutions: 15028
+GA time (ms): 24
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)
+MA crossover solutions: 13698
+MA mutation solutions: 1381
+MA total solutions: 15079
+MA time (ms): 133
+
+Saved plot to result/convergence_p37_i761_s12842.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #83
+Parameters: Pop=151, Iter=218, Seed=13522
+----------------------------------------------------------------
+Parameters: pop_size=151, iterations=218, seed=13522, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1518
+GA best tour: (g)–(f)–(e)–(i)–(d)–(k)–(c)–(j)–(a)–(b)–(h)–(l)–(g)
+GA crossover solutions: 16568
+GA mutation solutions: 1646
+GA total solutions: 18214
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)
+MA crossover solutions: 16568
+MA mutation solutions: 1655
+MA total solutions: 18223
+MA time (ms): 148
+
+Saved plot to result/convergence_p151_i218_s13522.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #84
+Parameters: Pop=32, Iter=124, Seed=5377
+----------------------------------------------------------------
+Parameters: pop_size=32, iterations=124, seed=5377, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)
+GA crossover solutions: 1984
+GA mutation solutions: 213
+GA total solutions: 2197
+GA time (ms): 3
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)
+MA crossover solutions: 1984
+MA mutation solutions: 204
+MA total solutions: 2188
+MA time (ms): 18
+
+Saved plot to result/convergence_p32_i124_s5377.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #85
+Parameters: Pop=177, Iter=816, Seed=29201
+----------------------------------------------------------------
+Parameters: pop_size=177, iterations=816, seed=29201, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+GA crossover solutions: 71808
+GA mutation solutions: 7239
+GA total solutions: 79047
+GA time (ms): 124
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)
+MA crossover solutions: 71808
+MA mutation solutions: 7248
+MA total solutions: 79056
+MA time (ms): 665
+
+Saved plot to result/convergence_p177_i816_s29201.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #86
+Parameters: Pop=74, Iter=704, Seed=17115
+----------------------------------------------------------------
+Parameters: pop_size=74, iterations=704, seed=17115, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (j)–(a)–(b)–(i)–(e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)
+GA crossover solutions: 26752
+GA mutation solutions: 2684
+GA total solutions: 29436
+GA time (ms): 44
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)
+MA crossover solutions: 26752
+MA mutation solutions: 2667
+MA total solutions: 29419
+MA time (ms): 258
+
+Saved plot to result/convergence_p74_i704_s17115.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #87
+Parameters: Pop=69, Iter=636, Seed=24858
+----------------------------------------------------------------
+Parameters: pop_size=69, iterations=636, seed=24858, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)
+GA crossover solutions: 21624
+GA mutation solutions: 2216
+GA total solutions: 23840
+GA time (ms): 56
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)
+MA crossover solutions: 21624
+MA mutation solutions: 2210
+MA total solutions: 23834
+MA time (ms): 262
+
+Saved plot to result/convergence_p69_i636_s24858.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #88
+Parameters: Pop=124, Iter=714, Seed=8566
+----------------------------------------------------------------
+Parameters: pop_size=124, iterations=714, seed=8566, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1505
+GA best tour: (j)–(c)–(k)–(e)–(f)–(g)–(l)–(h)–(d)–(i)–(b)–(a)–(j)
+GA crossover solutions: 44268
+GA mutation solutions: 4437
+GA total solutions: 48705
+GA time (ms): 72
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (d)–(g)–(h)–(l)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)
+MA crossover solutions: 44268
+MA mutation solutions: 4350
+MA total solutions: 48618
+MA time (ms): 418
+
+Saved plot to result/convergence_p124_i714_s8566.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #89
+Parameters: Pop=158, Iter=424, Seed=15955
+----------------------------------------------------------------
+Parameters: pop_size=158, iterations=424, seed=15955, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1425
+GA best tour: (c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)
+GA crossover solutions: 33920
+GA mutation solutions: 3386
+GA total solutions: 37306
+GA time (ms): 71
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)
+MA crossover solutions: 33920
+MA mutation solutions: 3379
+MA total solutions: 37299
+MA time (ms): 315
+
+Saved plot to result/convergence_p158_i424_s15955.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #90
+Parameters: Pop=181, Iter=519, Seed=11065
+----------------------------------------------------------------
+Parameters: pop_size=181, iterations=519, seed=11065, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (g)–(f)–(e)–(i)–(d)–(k)–(b)–(a)–(j)–(c)–(h)–(l)–(g)
+GA crossover solutions: 46710
+GA mutation solutions: 4741
+GA total solutions: 51451
+GA time (ms): 121
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)
+MA crossover solutions: 46710
+MA mutation solutions: 4712
+MA total solutions: 51422
+MA time (ms): 569
+
+Saved plot to result/convergence_p181_i519_s11065.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #91
+Parameters: Pop=73, Iter=557, Seed=3512
+----------------------------------------------------------------
+Parameters: pop_size=73, iterations=557, seed=3512, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)–(h)–(l)–(g)–(f)
+GA crossover solutions: 20052
+GA mutation solutions: 2012
+GA total solutions: 22064
+GA time (ms): 33
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+MA crossover solutions: 20052
+MA mutation solutions: 1981
+MA total solutions: 22033
+MA time (ms): 185
+
+Saved plot to result/convergence_p73_i557_s3512.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #92
+Parameters: Pop=39, Iter=877, Seed=29300
+----------------------------------------------------------------
+Parameters: pop_size=39, iterations=877, seed=29300, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (h)–(l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)
+GA crossover solutions: 17540
+GA mutation solutions: 1832
+GA total solutions: 19372
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (h)–(l)–(g)–(f)–(e)–(i)–(d)–(k)–(b)–(a)–(j)–(c)–(h)
+MA crossover solutions: 17540
+MA mutation solutions: 1813
+MA total solutions: 19353
+MA time (ms): 160
+
+Saved plot to result/convergence_p39_i877_s29300.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #93
+Parameters: Pop=147, Iter=219, Seed=27807
+----------------------------------------------------------------
+Parameters: pop_size=147, iterations=219, seed=27807, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (b)–(a)–(j)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(d)–(k)–(b)
+GA crossover solutions: 16206
+GA mutation solutions: 1595
+GA total solutions: 17801
+GA time (ms): 28
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (d)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)
+MA crossover solutions: 16206
+MA mutation solutions: 1653
+MA total solutions: 17859
+MA time (ms): 144
+
+Saved plot to result/convergence_p147_i219_s27807.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #94
+Parameters: Pop=143, Iter=719, Seed=23616
+----------------------------------------------------------------
+Parameters: pop_size=143, iterations=719, seed=23616, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1493
+GA best tour: (a)–(j)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(k)–(i)–(b)–(a)
+GA crossover solutions: 51768
+GA mutation solutions: 5195
+GA total solutions: 56963
+GA time (ms): 85
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (f)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)
+MA crossover solutions: 51768
+MA mutation solutions: 5285
+MA total solutions: 57053
+MA time (ms): 473
+
+Saved plot to result/convergence_p143_i719_s23616.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #95
+Parameters: Pop=172, Iter=143, Seed=13718
+----------------------------------------------------------------
+Parameters: pop_size=172, iterations=143, seed=13718, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1435
+GA best tour: (b)–(a)–(j)–(c)–(h)–(l)–(g)–(f)–(e)–(i)–(d)–(k)–(b)
+GA crossover solutions: 12298
+GA mutation solutions: 1192
+GA total solutions: 13490
+GA time (ms): 20
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (k)–(j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)
+MA crossover solutions: 12298
+MA mutation solutions: 1194
+MA total solutions: 13492
+MA time (ms): 110
+
+Saved plot to result/convergence_p172_i143_s13718.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #96
+Parameters: Pop=194, Iter=915, Seed=20815
+----------------------------------------------------------------
+Parameters: pop_size=194, iterations=915, seed=20815, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)
+GA crossover solutions: 89670
+GA mutation solutions: 9034
+GA total solutions: 98704
+GA time (ms): 151
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+MA crossover solutions: 89670
+MA mutation solutions: 8922
+MA total solutions: 98592
+MA time (ms): 828
+
+Saved plot to result/convergence_p194_i915_s20815.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #97
+Parameters: Pop=183, Iter=175, Seed=4804
+----------------------------------------------------------------
+Parameters: pop_size=183, iterations=175, seed=4804, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 16100
+GA mutation solutions: 1665
+GA total solutions: 17765
+GA time (ms): 26
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)
+MA crossover solutions: 16100
+MA mutation solutions: 1600
+MA total solutions: 17700
+MA time (ms): 142
+
+Saved plot to result/convergence_p183_i175_s4804.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #98
+Parameters: Pop=47, Iter=547, Seed=23945
+----------------------------------------------------------------
+Parameters: pop_size=47, iterations=547, seed=23945, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1467
+GA best tour: (k)–(b)–(j)–(a)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)
+GA crossover solutions: 13128
+GA mutation solutions: 1334
+GA total solutions: 14462
+GA time (ms): 21
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1435
+MA best tour: (g)–(f)–(e)–(i)–(d)–(k)–(b)–(a)–(j)–(c)–(h)–(l)–(g)
+MA crossover solutions: 13128
+MA mutation solutions: 1329
+MA total solutions: 14457
+MA time (ms): 118
+
+Saved plot to result/convergence_p47_i547_s23945.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #99
+Parameters: Pop=137, Iter=571, Seed=4898
+----------------------------------------------------------------
+Parameters: pop_size=137, iterations=571, seed=4898, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+GA crossover solutions: 38828
+GA mutation solutions: 3991
+GA total solutions: 42819
+GA time (ms): 64
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (d)–(g)–(l)–(h)–(c)–(k)–(j)–(a)–(b)–(i)–(e)–(f)–(d)
+MA crossover solutions: 38828
+MA mutation solutions: 3912
+MA total solutions: 42740
+MA time (ms): 357
+
+Saved plot to result/convergence_p137_i571_s4898.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #100
+Parameters: Pop=71, Iter=563, Seed=27462
+----------------------------------------------------------------
+Parameters: pop_size=71, iterations=563, seed=27462, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)
+GA crossover solutions: 20268
+GA mutation solutions: 1987
+GA total solutions: 22255
+GA time (ms): 33
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)–(f)–(g)
+MA crossover solutions: 20268
+MA mutation solutions: 1957
+MA total solutions: 22225
+MA time (ms): 192
+
+Saved plot to result/convergence_p71_i563_s27462.png
+
+All experiments completed. Results saved to result/ directory.
+================================================================
+Experiment Run Started: Sun Nov 23 21:33:04 CST 2025
+================================================================
+
+----------------------------------------------------------------
+Experiment: Random Experiment #1
+Parameters: Pop=189, Iter=195, Seed=19823
+----------------------------------------------------------------
+Parameters: pop_size=189, iterations=195, seed=19823, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 63
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1393
+GA best tour: (e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 18330
+GA mutation solutions: 1792
+GA total solutions: 20122
+GA time (ms): 29
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1426
+MA best tour: (e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+MA crossover solutions: 18330
+MA mutation solutions: 1800
+MA total solutions: 20130
+MA time (ms): 162
+
+Saved plot to result/convergence_p189_i195_s19823.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #2
+Parameters: Pop=187, Iter=508, Seed=11303
+----------------------------------------------------------------
+Parameters: pop_size=187, iterations=508, seed=11303, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 59
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1569
+GA best tour: (e)–(f)–(d)–(k)–(g)–(l)–(h)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 47752
+GA mutation solutions: 4809
+GA total solutions: 52561
+GA time (ms): 78
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (j)–(a)–(b)–(i)–(d)–(e)–(f)–(g)–(l)–(h)–(c)–(k)–(j)
+MA crossover solutions: 47752
+MA mutation solutions: 4714
+MA total solutions: 52466
+MA time (ms): 423
+
+Saved plot to result/convergence_p187_i508_s11303.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #3
+Parameters: Pop=175, Iter=893, Seed=28569
+----------------------------------------------------------------
+Parameters: pop_size=175, iterations=893, seed=28569, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 61
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (b)–(i)–(e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)
+GA crossover solutions: 78584
+GA mutation solutions: 7987
+GA total solutions: 86571
+GA time (ms): 130
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1459
+MA best tour: (l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)
+MA crossover solutions: 78584
+MA mutation solutions: 8026
+MA total solutions: 86610
+MA time (ms): 702
+
+Saved plot to result/convergence_p175_i893_s28569.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #4
+Parameters: Pop=140, Iter=846, Seed=15397
+----------------------------------------------------------------
+Parameters: pop_size=140, iterations=846, seed=15397, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 62
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1426
+GA best tour: (e)–(f)–(l)–(h)–(g)–(d)–(k)–(c)–(j)–(a)–(b)–(i)–(e)
+GA crossover solutions: 59220
+GA mutation solutions: 6044
+GA total solutions: 65264
+GA time (ms): 102
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)–(k)–(c)
+MA crossover solutions: 59220
+MA mutation solutions: 5917
+MA total solutions: 65137
+MA time (ms): 525
+
+Saved plot to result/convergence_p140_i846_s15397.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #5
+Parameters: Pop=152, Iter=333, Seed=731
+----------------------------------------------------------------
+Parameters: pop_size=152, iterations=333, seed=731, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 62
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1459
+GA best tour: (l)–(g)–(d)–(f)–(e)–(i)–(b)–(a)–(j)–(k)–(c)–(h)–(l)
+GA crossover solutions: 25308
+GA mutation solutions: 2535
+GA total solutions: 27843
+GA time (ms): 41
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1393
+MA best tour: (d)–(h)–(l)–(g)–(f)–(e)–(i)–(b)–(a)–(j)–(c)–(k)–(d)
+MA crossover solutions: 25308
+MA mutation solutions: 2601
+MA total solutions: 27909
+MA time (ms): 225
+
+Saved plot to result/convergence_p152_i333_s731.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #6
+Parameters: Pop=22, Iter=467, Seed=31910
+----------------------------------------------------------------
+Parameters: pop_size=22, iterations=467, seed=31910, mutation_rate=0.1
+
+=== Exact TSP on G_12_66 ===
+Best cost: 1393
+Best tour: (a)–(b)–(i)–(e)–(f)–(g)–(l)–(h)–(d)–(k)–(c)–(j)–(a)
+Generated solutions: 164219
+Exact time (ms): 61
+
+=== Genetic Algorithm (GA) ===
+GA best cost: 1551
+GA best tour: (h)–(l)–(g)–(d)–(b)–(a)–(j)–(c)–(k)–(i)–(e)–(f)–(h)
+GA crossover solutions: 5604
+GA mutation solutions: 549
+GA total solutions: 6153
+GA time (ms): 9
+
+=== Memetic Algorithm (MA) ===
+MA best cost: 1425
+MA best tour: (j)–(k)–(c)–(h)–(l)–(g)–(f)–(e)–(d)–(i)–(b)–(a)–(j)
+MA crossover solutions: 5604
+MA mutation solutions: 549
+MA total solutions: 6153
+MA time (ms): 50
+
+Saved plot to result/convergence_p22_i467_s31910.png
+
+----------------------------------------------------------------
+Experiment: Random Experiment #7
+Parameters: Pop=77, Iter=718, Seed=4605
+----------------------------------------------------------------

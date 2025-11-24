@@ -13,7 +13,7 @@ import random
 import time
 from .utils import tour_length
 from .ga import crossover_one_point, mutate_swap
-from .local_search import local_search_rotate_groups
+from .local_search import local_search_rotate_groups, local_search_2opt, local_search_rotate_groups_iterative, local_search_rotate_groups_dynamic
 
 
 def memetic_tsp(dist_matrix,
@@ -22,6 +22,7 @@ def memetic_tsp(dist_matrix,
                 mutation_rate: float = 0.1,
                 local_search_prob: float = 1.0,
                 groups_for_ls: int = 3,
+                ls_method: str = "rotate",  # "rotate" or "2opt"
                 seed: int | None = None) -> Dict:
     """
     Memetic Algorithm for TSP.
@@ -32,7 +33,8 @@ def memetic_tsp(dist_matrix,
         iterations: number of generations
         mutation_rate: probability of mutating each offspring
         local_search_prob: probability of applying local search to each offspring
-        groups_for_ls: number of groups for the local search procedure
+        groups_for_ls: number of groups for the local search procedure (used if ls_method="rotate")
+        ls_method: local search method to use ("rotate" or "2opt")
         seed: optional random seed
 
     Returns:
@@ -91,11 +93,29 @@ def memetic_tsp(dist_matrix,
         # Local search (Step 7.1 in the paper)
         for i in range(len(new_children)):
             if random.random() < local_search_prob:
-                new_children[i] = local_search_rotate_groups(
-                    new_children[i],
-                    dist_matrix,
-                    groups=groups_for_ls
-                )
+                if ls_method == "2opt":
+                    new_children[i] = local_search_2opt(
+                        new_children[i],
+                        dist_matrix
+                    )
+                elif ls_method == "rotate_iterative":
+                    new_children[i] = local_search_rotate_groups_iterative(
+                        new_children[i],
+                        dist_matrix,
+                        groups=groups_for_ls
+                    )
+                elif ls_method == "rotate_dynamic":
+                    new_children[i] = local_search_rotate_groups_dynamic(
+                        new_children[i],
+                        dist_matrix,
+                        group_sizes=[3, 4] # Hardcoded for G12 (12 vertices: 3x4 and 4x3)
+                    )
+                else:
+                    new_children[i] = local_search_rotate_groups(
+                        new_children[i],
+                        dist_matrix,
+                        groups=groups_for_ls
+                    )
 
         # Mutation
         for child in new_children:
